@@ -11,7 +11,7 @@
 
 A fast, lightweight language translator web app built with vanilla HTML, CSS, and JavaScript. Supports 90+ languages with text-to-speech, clipboard copy, auto-translate as you type, and full translation history.
 
-🌍 **Live:** [swahili-translator.netlify.app](https://swahili-translator.netlify.app/) · [dh9pm2o1ufkb9.cloudfront.net](https://dh9pm2o1ufkb9.cloudfront.net)
+🌍 **Live:** [dh9pm2o1ufkb9.cloudfront.net](https://dh9pm2o1ufkb9.cloudfront.net)
 
 ---
 
